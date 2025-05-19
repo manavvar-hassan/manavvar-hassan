@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **React and building responsive websites.**
 
-- 👨‍💻 All of my projects are available at [man-protfolio.co](man-protfolio.co)
+- 👨‍💻 All of my projects are available at [https://manvvar-hasan72.netlify.app/]
 
 - 💬 Ask me about **react, javaScript**
 
